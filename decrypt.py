@@ -8,7 +8,7 @@ with open('C:\\key.bin', 'rb') as f:
 directories = ['C:\\']
 
 for directory in directories:
-    files = glob.glob(os.path.join(directory, '*.jcrypt'))
+    files = glob.glob(os.path.join(directory, '*.cryptox'))
 
     for file in files:
         with open(file, 'rb') as f:
