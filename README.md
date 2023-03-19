@@ -1,5 +1,5 @@
 <h1 align="center">
-CrypToxic
+CrypToxin
 <h1 align="center">
 <p align="center"> 
 <kbd>
