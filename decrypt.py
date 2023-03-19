@@ -5,7 +5,7 @@ from Crypto.Cipher import AES
 with open('C:\\key.bin', 'rb') as f:
     key = f.read()
 
-directories = ['C:\\Users\docyo\Pictures\Vid pokemon fleau']
+directories = ['C:\\Users']
 
 for directory in directories:
     files = glob.glob(os.path.join(directory, '*.cryptox'))
