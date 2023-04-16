@@ -57,7 +57,8 @@ report = {
             "color": 0x9400D3,
             "author": {
                 "name": "CrypToxin",
-                "icon_url": "https://cdn.discordapp.com/attachments/1066174115490312222/1087035215660200066/poison.png"
+                "icon_url": "https://cdn.discordapp.com/attachments/1029767377430253580/1097138269453553724/poison.png"
+"
             },
             "fields": [
                 {
